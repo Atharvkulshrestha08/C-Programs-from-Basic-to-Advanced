@@ -18,8 +18,9 @@
   <p align="center">
     <a herf="python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
     <a herf="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <a herf="unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"/>
-  <a herf="blender.org"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+    <a herf="unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"/>
+    <a herf="blender.org"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+  </p>
 </p>
 
 ### 📈 GitHub Stats
