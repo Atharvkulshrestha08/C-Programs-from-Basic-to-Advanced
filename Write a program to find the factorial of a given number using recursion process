@@ -1,0 +1,19 @@
+Program901.c
+
+#include <stdio.h>
+#include "Program901a.c"
+void main() {
+  long int n;
+  printf("Enter an integer : ");
+  scanf("%ld", &n);
+  printf("Factorial,factorial(n));
+}
+
+Program901a.c
+
+long int factorial (int n){
+	if(n==0||n==1)
+		return 1;
+	else
+		return n * factorial(n-1);
+}
