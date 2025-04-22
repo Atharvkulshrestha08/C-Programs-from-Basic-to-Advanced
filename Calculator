@@ -1,0 +1,37 @@
+#include <stdio.h>
+int main(){
+	char operator;
+	int a,b,result;
+	printf("Enter your operator:");
+	scanf("%c", &operator);
+	printf("Enter the values of a and b\n");
+	scanf("%d %d",&a,&b);
+	switch (operator){
+		case '+':
+		result=a+b;
+		printf("addition of two numbers is %d", result);
+		break;
+		case '-':
+		result=a-b;
+		printf("subtraction of two numbers is %d",result);
+		break;
+		case '*':
+		result=a*b;
+		printf("multiplication of two numbers is %d",result);
+		break;
+		case '/':
+		if(b!=0){
+			result=a/b;
+			printf("Quotient of two numbers is %d",result);
+		}else{
+			printf("Error: Division by zero is not allowed.");
+		}break;
+		case '%':
+		if((int)b!=0){
+			result=(int)a % (int)b;
+			printf("Remainder of two numbers is %d", result);
+		}else{
+			printf("Error: Division by zero is not allowed.");
+		}break;
+		default:{
+}
