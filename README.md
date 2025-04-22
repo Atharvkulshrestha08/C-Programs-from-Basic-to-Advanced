@@ -22,15 +22,12 @@
   <a herf="blender.org"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 </p>
 
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a herf="<a herf="python.org">"><img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
----
 
 ### 🚀 Let's Connect!
 <p align="center">
