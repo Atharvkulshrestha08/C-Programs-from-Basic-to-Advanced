@@ -1,0 +1,21 @@
+#include <stdio.h>
+int main(){
+	float a,b,c,d,e,total=0, per;
+	char grade;
+	printf("Enter five subjects marks: ");
+	scanf("%f %f %f %f %f",&a,&b,&c,&d,&e);
+	total=(a+b+c+d+e);
+	per = total/5;
+	if(per>=90 && per<=100){
+		grade='A';
+	} else if(per>=80 && per<90){
+		grade='B';
+	} else if (per>=60 && per<80){
+		grade='C';
+	} else{
+		grade='D';
+	}
+	printf("Percentage = %f\n",per);
+	printf("Grade %c",grade);
+	return 0;
+}
