@@ -15,10 +15,11 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+  <p align="center">
+    <a herf="python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <a herf="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <a herf="unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"/>
+  <a herf="blender.org"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 </p>
 
 ---
@@ -26,7 +27,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="github stats"/>
+  <a herf="<a herf="python.org">"><img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="github stats"/>
 </p>
 
 ---
